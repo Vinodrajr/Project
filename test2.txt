@@ -1,1 +1,2 @@
 test2 is added to github.
+test 2 is cloned.
